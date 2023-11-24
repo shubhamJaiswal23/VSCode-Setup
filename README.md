@@ -1,2 +1,2 @@
 # VSCode-Setup
-My VS Code Setup
+This Repository shows my VS Code Setup
