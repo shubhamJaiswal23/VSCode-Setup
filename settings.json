@@ -1,0 +1,54 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.mouseWheelZoom": true,
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 17.5,
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.guides.bracketPairs": "active",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 3px",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px",
+          "overviewRulerColor": "yellow"
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 3px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "yellow",
+          "borderRadius": "5px",
+          "overviewRulerColor": "yellow"
+        }
+      }
+    }
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnType": true,
+  "explorer.compactFolders": false,
+  "prettier.singleQuote": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "prettier.trailingComma": "none",
+  "terminal.integrated.copyOnSelection": true,
+  "window.zoomLevel": 0,
+  "reactSnippets.settings.importReactOnTop": false
+}
