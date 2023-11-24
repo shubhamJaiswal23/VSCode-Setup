@@ -1,7 +1,10 @@
-# VSCode-Setup
-This Repository shows my VS Code Setup with extensions:-
+# VSCode Setup
 
-<a href="https://ibb.co/TqrJBdQ"><img src="https://i.ibb.co/4gJCZ3b/extensions1.png" alt="extensions1" border="0" /></a>
+VS Code setup! This repository showcases the extensions I use to enhance my development environment.
 
-<a href="https://ibb.co/RB8nR7z"><img src="https://i.ibb.co/ZY9sqNW/extensions2.png" alt="extensions2" border="0" /></a>
+## Screenshots
+
+![Extensions Screenshot 1](https://i.ibb.co/4gJCZ3b/extensions1.png)
+
+![Extensions Screenshot 2](https://i.ibb.co/ZY9sqNW/extensions2.png)
 
